@@ -7,9 +7,9 @@
     <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
     <title>students</title>
 </head>
-<body>
+<body class="bg-gray-100">
 
-<div class="container border-gray m-5 rounded-lg">
+<div class="container  border-gray m-5 rounded-lg">
 
 
 <div class="flex min-h-full flex-col justify-center  border-gray m-5 rounded-lg px-6 py-12 lg:px-8 ">
